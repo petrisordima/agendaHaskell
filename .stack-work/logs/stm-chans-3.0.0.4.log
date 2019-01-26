@@ -1,0 +1,13 @@
+[1 of 2] Compiling Main             ( C:\Users\PC\AppData\Local\Temp\stack17768\stm-chans-3.0.0.4\Setup.hs, C:\Users\PC\AppData\Local\Temp\stack17768\stm-chans-3.0.0.4\.stack-work\dist\7d103d30\setup\Main.o )
+[2 of 2] Compiling StackSetupShim   ( C:\sr\setup-exe-src\setup-shim-Z6RU0evB.hs, C:\Users\PC\AppData\Local\Temp\stack17768\stm-chans-3.0.0.4\.stack-work\dist\7d103d30\setup\StackSetupShim.o )
+Linking C:\Users\PC\AppData\Local\Temp\stack17768\stm-chans-3.0.0.4\.stack-work\dist\7d103d30\setup\setup.exe ...
+Configuring stm-chans-3.0.0.4...
+Preprocessing library for stm-chans-3.0.0.4..
+Building library for stm-chans-3.0.0.4..
+[1 of 5] Compiling Control.Concurrent.STM.TBChan ( src\Control\Concurrent\STM\TBChan.hs, .stack-work\dist\7d103d30\build\Control\Concurrent\STM\TBChan.o )
+[2 of 5] Compiling Control.Concurrent.STM.TBMChan ( src\Control\Concurrent\STM\TBMChan.hs, .stack-work\dist\7d103d30\build\Control\Concurrent\STM\TBMChan.o )
+[3 of 5] Compiling Control.Concurrent.STM.TBMQueue ( src\Control\Concurrent\STM\TBMQueue.hs, .stack-work\dist\7d103d30\build\Control\Concurrent\STM\TBMQueue.o )
+[4 of 5] Compiling Control.Concurrent.STM.TMChan ( src\Control\Concurrent\STM\TMChan.hs, .stack-work\dist\7d103d30\build\Control\Concurrent\STM\TMChan.o )
+[5 of 5] Compiling Control.Concurrent.STM.TMQueue ( src\Control\Concurrent\STM\TMQueue.hs, .stack-work\dist\7d103d30\build\Control\Concurrent\STM\TMQueue.o )
+Installing library in C:\sr\snapshots\fc1fe247\lib\x86_64-windows-ghc-8.4.4\stm-chans-3.0.0.4-BydeEz1YMAI4c97ZmSq8Ww
+Registering library for stm-chans-3.0.0.4..

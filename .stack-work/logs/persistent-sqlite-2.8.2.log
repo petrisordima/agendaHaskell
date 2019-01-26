@@ -1,0 +1,7 @@
+Configuring persistent-sqlite-2.8.2...
+Preprocessing library for persistent-sqlite-2.8.2..
+Building library for persistent-sqlite-2.8.2..
+[1 of 2] Compiling Database.Sqlite  ( Database\Sqlite.hs, .stack-work\dist\7d103d30\build\Database\Sqlite.o )
+[2 of 2] Compiling Database.Persist.Sqlite ( Database\Persist\Sqlite.hs, .stack-work\dist\7d103d30\build\Database\Persist\Sqlite.o )
+Installing library in C:\sr\snapshots\fc1fe247\lib\x86_64-windows-ghc-8.4.4\persistent-sqlite-2.8.2-4OdVZWZhq8MBnNTQVAke2r
+Registering library for persistent-sqlite-2.8.2..

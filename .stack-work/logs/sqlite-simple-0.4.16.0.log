@@ -1,0 +1,37 @@
+Configuring sqlite-simple-0.4.16.0...
+Preprocessing library for sqlite-simple-0.4.16.0..
+Building library for sqlite-simple-0.4.16.0..
+[ 1 of 11] Compiling Database.SQLite.Simple.Ok ( Database\SQLite\Simple\Ok.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\Ok.o )
+[ 2 of 11] Compiling Database.SQLite.Simple.Internal ( Database\SQLite\Simple\Internal.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\Internal.o )
+
+[;1mDatabase\SQLite\Simple\Internal.hs:22:1: [;1m[35mwarning:[0m[0m[;1m [[;1m[35m-Wdodgy-imports[0m[0m[;1m][0m[0m[;1m
+    Module `Prelude' does not export `catch'[0m[0m
+[;1m[34m   |[0m[0m
+[;1m[34m22 |[0m[0m [;1m[35mimport           Prelude hiding (catch)[0m[0m
+[;1m[34m   |[0m[0m[;1m[35m ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[0m[0m[ 3 of 11] Compiling Database.SQLite.Simple.Time.Implementation ( Database\SQLite\Simple\Time\Implementation.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\Time\Implementation.o )
+[ 4 of 11] Compiling Database.SQLite.Simple.Time ( Database\SQLite\Simple\Time.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\Time.o )
+[ 5 of 11] Compiling Database.SQLite.Simple.Types ( Database\SQLite\Simple\Types.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\Types.o )
+[ 6 of 11] Compiling Database.SQLite.Simple.ToField ( Database\SQLite\Simple\ToField.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\ToField.o )
+[ 7 of 11] Compiling Database.SQLite.Simple.ToRow ( Database\SQLite\Simple\ToRow.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\ToRow.o )
+[ 8 of 11] Compiling Database.SQLite.Simple.QQ ( Database\SQLite\Simple\QQ.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\QQ.o )
+[ 9 of 11] Compiling Database.SQLite.Simple.FromField ( Database\SQLite\Simple\FromField.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\FromField.o )
+
+[;1mDatabase\SQLite\Simple\FromField.hs:37:1: [;1m[35mwarning:[0m[0m[;1m [[;1m[35m-Wunused-imports[0m[0m[;1m][0m[0m[;1m
+    The import of `Applicative'
+    from module `Control.Applicative' is redundant[0m[0m
+[;1m[34m   |[0m[0m
+[;1m[34m37 |[0m[0m [;1m[35mimport           Control.Applicative (Applicative, (<$>), pure)[0m[0m
+[;1m[34m   |[0m[0m[;1m[35m ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[0m[0m[10 of 11] Compiling Database.SQLite.Simple.FromRow ( Database\SQLite\Simple\FromRow.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple\FromRow.o )
+[11 of 11] Compiling Database.SQLite.Simple ( Database\SQLite\Simple.hs, .stack-work\dist\7d103d30\build\Database\SQLite\Simple.o )
+
+[;1mDatabase\SQLite\Simple.hs:105:1: [;1m[35mwarning:[0m[0m[;1m [[;1m[35m-Wunused-imports[0m[0m[;1m][0m[0m[;1m
+    The import of `Control.Applicative' is redundant
+      except perhaps to import instances from `Control.Applicative'
+    To import instances alone, use: import Control.Applicative()[0m[0m
+[;1m[34m    |[0m[0m
+[;1m[34m105 |[0m[0m [;1m[35mimport           Control.Applicative[0m[0m
+[;1m[34m    |[0m[0m[;1m[35m ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[0m[0mInstalling library in C:\sr\snapshots\fc1fe247\lib\x86_64-windows-ghc-8.4.4\sqlite-simple-0.4.16.0-A9ogBgloNOV9q06JolRHX2
+Registering library for sqlite-simple-0.4.16.0..

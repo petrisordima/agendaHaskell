@@ -1,0 +1,6 @@
+[1 of 2] Compiling Main             ( C:\Users\PC\AppData\Local\Temp\stack28248\mysql-0.1.6\Setup.hs, C:\Users\PC\AppData\Local\Temp\stack28248\mysql-0.1.6\.stack-work\dist\7d103d30\setup\Main.o )
+[2 of 2] Compiling StackSetupShim   ( C:\sr\setup-exe-src\setup-shim-Z6RU0evB.hs, C:\Users\PC\AppData\Local\Temp\stack28248\mysql-0.1.6\.stack-work\dist\7d103d30\setup\StackSetupShim.o )
+Linking C:\Users\PC\AppData\Local\Temp\stack28248\mysql-0.1.6\.stack-work\dist\7d103d30\setup\setup.exe ...
+Configuring mysql-0.1.6...
+setup.exe: The program 'mysql_config' is required but it could not be found
+
